@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vibe Coding 七阶段开发"
+  short_description: "从模糊需求到设计、计划、编码、验收和交付，逐阶段精简输出并等待审核"
+  default_prompt: "请使用 $vibe-coding-7-stage，结合当前项目，从需求理解开始处理我的新需求："
